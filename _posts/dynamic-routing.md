@@ -12,4 +12,4 @@ author:
 ogImage:
   url: /assets/blog/dynamic-routing/cover.jpg
 ---
-<p class="leading-7 [&amp;:not(:first-child)]:mt-6"><span style="font-size: 22px; white-space: pre-wrap;">jnk</span></p>
+[object Object]
